@@ -3,4 +3,4 @@ Git is free software distrubuted under the GPL.
 adada
 aaaaad
 git has a mutable index called stage.
-git track changes.
+git track changes of file.
